@@ -4,9 +4,9 @@
 newmtl Object002_mtl
 Ns 20.000006
 Ka 1.000000 1.000000 1.000000
+Kd 1.0 1.0 0.0
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 1
-map_Kd pacman/source/PacMan/Object002_2017-11-02_04-34-37_complete.rpf_converted.jpg
